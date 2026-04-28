@@ -14,5 +14,4 @@
 - cat → display file content
 - less → view file page by page
 
-## Notes
-Practiced basic Linux commands for file navigation and management.
+
